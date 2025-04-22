@@ -12,13 +12,6 @@ Um projeto de mockup web simples, moderno e responsivo, desenvolvido com HTML, C
 
 ## 📸 Preview
 
-![Preview](preview.png) <!-- Você pode adicionar uma imagem de demonstração do projeto aqui -->
+![Preview](preview.png) 
 
 ---
-
-## 🚀 Como Usar
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/webproject.git
-   cd webproject
