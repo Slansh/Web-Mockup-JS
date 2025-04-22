@@ -9,9 +9,3 @@ Um projeto de mockup web simples, moderno e responsivo, desenvolvido com HTML, C
 - **JavaScript** — interatividade básica
 
 ---
-
-## 📸 Preview
-
-![Preview](preview.png) 
-
----
