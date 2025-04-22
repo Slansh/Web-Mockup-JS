@@ -1,1 +1,24 @@
-# Web-Mockup-JS
+# 🌐 WebProject
+
+Um projeto de mockup web simples, moderno e responsivo, desenvolvido com HTML, CSS e JavaScript. Ideal como base para portfólios, landing pages ou apresentações de conceito visual.
+
+## 🔧 Tecnologias Utilizadas
+
+- **HTML5** — estrutura da página
+- **CSS3** — estilização moderna com variáveis no `:root`
+- **JavaScript** — interatividade básica
+
+---
+
+## 📸 Preview
+
+![Preview](preview.png) <!-- Você pode adicionar uma imagem de demonstração do projeto aqui -->
+
+---
+
+## 🚀 Como Usar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/webproject.git
+   cd webproject
