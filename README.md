@@ -1,6 +1,6 @@
 # 🌐 WebProject
 
-Um projeto de mockup web simples, moderno e responsivo, desenvolvido com HTML, CSS e JavaScript. Ideal como base para portfólios, landing pages ou apresentações de conceito visual.
+Um projeto de mockup web simples, moderno e responsivo, desenvolvido com HTML, CSS e JavaScript.
 
 ## 🔧 Tecnologias Utilizadas
 
